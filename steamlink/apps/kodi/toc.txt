@@ -1,0 +1,3 @@
+name=Kodi
+icon=icon.png
+run=kodi.sh
